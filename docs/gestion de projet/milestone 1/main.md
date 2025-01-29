@@ -4,8 +4,8 @@
 
 Todo:
 
-- [ ] L’organigramme des tâches, WBS : Work Breakdown Structure
 - [ ] Structure de découpage du projet, PBS : Product Breakdown Structure
+- [ ] L’organigramme des tâches, WBS : Work Breakdown Structure
 - [ ] Gestion des risques, AMDEC
 - [ ] Indicateur de performance
 - [x] Gestion des tâches et du code, Gantt et Kanban (tableau de bord)
@@ -17,11 +17,11 @@ Todo:
 - [ ] Liste du matériel nécessaire
 - [ ] Budget prévisionnel
 
-## L’organigramme des tâches, WBS : Work Breakdown Structure
+## Gestions des risques, AMDEC
 
 **TODO**
 
-## Gestions des risques, AMDEC
+## L’organigramme des tâches, WBS : Work Breakdown Structure
 
 **TODO**
 
