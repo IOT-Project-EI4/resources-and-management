@@ -1,1 +1,1 @@
-# hardware-sensor
+# Smart Farming - Hardware sensor
