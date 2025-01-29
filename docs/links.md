@@ -3,4 +3,9 @@
 ## Electronics
 
 [Lipo charger - How to](https://www.instructables.com/How-to-Make-Lipo-Battery-Charger-Circuit)
-[Solar panel - Aliexpress](https://fr.aliexpress.com/item/1005002996845292.html?spm=a2g0n.productlist.0.0.3f6a504adAED2o&browser_id=9912822ba7104565be8b54cba042be38&aff_platform=msite&m_page_id=uhemhfyihucauiqa1949d31b18a11be4e5b4169a4f&gclid=&pdp_npi=4%40dis%21EUR%213.65%210.99%21%21%213.71%211.00%21%402103894417378040671818237e8bad%2112000023131955730%21sea%21FR%210%21ABX&algo_pvid=fbef27f0-ebd8-4d19-bb38-3ce8c8e70ac6&search_p4p_id=202501250321072425412939565280013268461_3&_gl=1*1y16e74*_ga*MjE1MjE3MzMwLjE3Mzc4MDQwNjk.*_ga_VED1YSGNC7*MTczNzgwNDA2OC4xLjAuMTczNzgwNDA3MC42MC4wLjA.*_gcl_au*MjAyMzQ1MDk0Ny4xNzM3ODA0MDcx)
+
+[TPL timer](https://www.digikey.fr/fr/products/detail/adafruit-industries-llc/3435/6817229?gclsrc=aw.ds&&utm_adgroup=Development%20Boards%2C%20Kits%2C%20Programmers&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_All%20Products&utm_term=&productid=6817229&utm_content=Development%20Boards%2C%20Kits%2C%20Programmers&utm_id=go_cmp-1079488953_adg-59347413769_ad-278469724508_pla-359377623096_dev-c_ext-_prd-6817229_sig-Cj0KCQiAwOe8BhCCARIsAGKeD57y0SBIcqO_-Y-WvDK3i7pPjeqBXFpWvGUqrojjBADkdZbwdJhu8-kaAiYcEALw_wcB&gad_source=1&gclid=Cj0KCQiAwOe8BhCCARIsAGKeD57y0SBIcqO_-Y-WvDK3i7pPjeqBXFpWvGUqrojjBADkdZbwdJhu8-kaAiYcEALw_wcB&gclsrc=aw.ds)
+
+## Microcontroller
+
+[ESP 32 power comsuption](https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/)
