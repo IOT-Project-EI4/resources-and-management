@@ -7,7 +7,7 @@
 - [x] Structure de découpage du projet, PBS : Product Breakdown Structure
 - [ ] L’organigramme des tâches, WBS : Work Breakdown Structure
 - [ ] Gestion des risques, AMDEC
-- [ ] Indicateur de performance
+- [X] Indicateur de performance
 - [x] Gestion des tâches et du code, Gantt et Kanban (tableau de bord)
 - [x] Communication
 - [ ] Plannification
