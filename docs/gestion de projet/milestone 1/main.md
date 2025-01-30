@@ -13,6 +13,7 @@
 - [ ] Plannification
 - [ ] Charte d'équipe
 - [x] Fiches d'auto évaluation
+- [x] Tests de perception
 - [ ] Schéma fonctionnel et description des fonctionnalités
 - [ ] Cahier des charges
 - [ ] Liste du matériel nécessaire
@@ -22,7 +23,7 @@
 
 Schema de la structure de découpage du projet : [management/pbs.excalidraw](management/pbs.excalidraw)
 
-![PBS](image.png)
+![PBS](images/pbs.png)
 
 ## L’organigramme des tâches, WBS : Work Breakdown Structure
 
@@ -40,7 +41,11 @@ Tous ces éléments sont accessibles depuis le tableau de bord du projet dans le
 
 Vue Kanban : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/2](https://github.com/orgs/IOT-Project-EI4/projects/3/views/2)
 
+![Kanban](images/kanban.png)
+
 Vue Gantt : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/1](https://github.com/orgs/IOT-Project-EI4/projects/3/views/1)
+
+![Gantt](images/gantt.png)
 
 ## Communication
 
@@ -56,13 +61,11 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 
 ## Fiches d'auto évaluation
 
-Valentin Le Lievre : [management/fiches auto evaluation/valentin le lievre.pdf](management/fiches%20auto%20evaluation/valentin%20le%20lievre.pdf)
+[Valentin Le Lievre](management/fiches%20auto%20evaluation/valentin%20le%20lievre.pdf), [Jana Dagher](management/fiches%20auto%20evaluation/jana%20dagher.pdf), [Inessa Kechek](management/fiches%20auto%20evaluation/inessa%20kechek.pdf), [Joakim Lagarde](management/fiches%20auto%20evaluation/joakim%20lagarde.pdf)
 
-Jana Dagher : [management/fiches auto evaluation/jana dagher.pdf](management/fiches%20auto%20evaluation/jana%20dagher.pdf)
+## Tests de perception
 
-Inessa Kechek : [management/fiches auto evaluation/inessa kechek.pdf](management/fiches%20auto%20evaluation/inessa%20kechek.pdf)
-
-Joakim Lagarde : [management/fiches auto evaluation/joakim lagarde.pdf](management/fiches%20auto%20evaluation/joakim%20lagarde.pdf)
+[Valentin Le Lievre](management/tests%20de%20perception/valentin%20le%20lievre.xlsx), [Jana Dagher](management/tests%20de%20perception/jana%20dagher.xlsx), [Inessa Kechek](management/tests%20de%20perception/inessa%20kechek.xlsx), [Joakim Lagarde](management/tests%20de%20perception/joakim%20lagarde.xlsx)
 
 ## Schéma fonctionnel et description des fonctionnalités
 
@@ -70,7 +73,7 @@ Description des fonctionnalitées : [../../ideas/draft.excalidraw](../../ideas/d
 
 Schéma fonctionnel : [../../ideas/module.excalidraw](../../ideas/module.excalidraw)
 
-**TODO :** insert screenshot when drawings are finalized
+![Dessin fonctionnel du module](images/module.png)
 
 ## Cahier des charges
 
