@@ -4,7 +4,7 @@
 
 ### Todo:
 
-- [ ] Structure de découpage du projet, PBS : Product Breakdown Structure
+- [x] Structure de découpage du projet, PBS : Product Breakdown Structure
 - [ ] L’organigramme des tâches, WBS : Work Breakdown Structure
 - [ ] Gestion des risques, AMDEC
 - [ ] Indicateur de performance
@@ -12,6 +12,7 @@
 - [x] Communication
 - [ ] Plannification
 - [ ] Charte d'équipe
+- [x] Fiches d'auto évaluation
 - [ ] Schéma fonctionnel et description des fonctionnalités
 - [ ] Cahier des charges
 - [ ] Liste du matériel nécessaire
@@ -52,6 +53,16 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 ## Charte d'équipe
 
 **TODO :** insérer un lien vers la charte d'équipe
+
+## Fiches d'auto évaluation
+
+Valentin Le Lievre : [management/fiches auto evaluation/valentin le lievre.pdf](management/fiches%20auto%20evaluation/valentin%20le%20lievre.pdf)
+
+Jana Dagher : [management/fiches auto evaluation/jana dagher.pdf](management/fiches%20auto%20evaluation/jana%20dagher.pdf)
+
+Inessa Kechek : [management/fiches auto evaluation/inessa kechek.pdf](management/fiches%20auto%20evaluation/inessa%20kechek.pdf)
+
+Joakim Lagarde : [management/fiches auto evaluation/joakim lagarde.pdf](management/fiches%20auto%20evaluation/joakim%20lagarde.pdf)
 
 ## Schéma fonctionnel et description des fonctionnalités
 
