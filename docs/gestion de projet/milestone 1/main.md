@@ -2,10 +2,10 @@
 
 **Due date :** le 11/02/2025
 
-Todo:
+### Todo:
 
-- [ ] L’organigramme des tâches, WBS : Work Breakdown Structure
 - [ ] Structure de découpage du projet, PBS : Product Breakdown Structure
+- [ ] L’organigramme des tâches, WBS : Work Breakdown Structure
 - [ ] Gestion des risques, AMDEC
 - [ ] Indicateur de performance
 - [x] Gestion des tâches et du code, Gantt et Kanban (tableau de bord)
@@ -17,15 +17,17 @@ Todo:
 - [ ] Liste du matériel nécessaire
 - [ ] Budget prévisionnel
 
+## Structure de découpage du projet, PBS : Product Breakdown Structure
+
+Schema de la structure de découpage du projet : [management/pbs.excalidraw](management/pbs.excalidraw)
+
+![PBS](image.png)
+
 ## L’organigramme des tâches, WBS : Work Breakdown Structure
 
 **TODO**
 
 ## Gestions des risques, AMDEC
-
-**TODO**
-
-## Structure de découpage du projet, PBS : Product Breakdown Structure
 
 **TODO**
 
@@ -36,6 +38,7 @@ Nous avons décider d'utilisr les outils intégrés dans GitHub pour gérer notr
 Tous ces éléments sont accessibles depuis le tableau de bord du projet dans lequel plusieurs vues sont disponibles tel que le tableau kanban, le tableau de bord des issues et pull requests et le Gantt.
 
 Vue Kanban : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/2](https://github.com/orgs/IOT-Project-EI4/projects/3/views/2)
+
 Vue Gantt : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/1](https://github.com/orgs/IOT-Project-EI4/projects/3/views/1)
 
 ## Communication
@@ -44,11 +47,11 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 
 ## Plannification
 
+**TODO**
+
 ## Charte d'équipe
 
 **TODO :** insérer un lien vers la charte d'équipe
-
-**TODO**
 
 ## Schéma fonctionnel et description des fonctionnalités
 
@@ -60,7 +63,7 @@ Schéma fonctionnel : [../../ideas/module.excalidraw](../../ideas/module.excalid
 
 ## Cahier des charges
 
-**TODO :** insérer un lien vers le cahier des charges
+Le cahier des charges est disponible ici : [Cahier des charges](cahier%20des%20charges.md)
 
 ## Liste du matériel nécessaire
 
