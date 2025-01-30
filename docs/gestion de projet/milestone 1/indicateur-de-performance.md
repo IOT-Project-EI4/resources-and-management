@@ -33,7 +33,7 @@
 
 ## 4️⃣ Tendance des Indicateurs  
 
-📈 **Évolution des indicateurs clés sur les 6 derniers mois** :  
+📈 **Évolution des indicateurs clés sur les 4 derniers mois, simulation de la situation en avril** :  
 
 - **Avancement du projet** en hausse 📊
 
@@ -42,6 +42,8 @@
 - **Transmission des données** légèrement en baisse 📡  
 
 - **Consommation énergétique** en dépassement ⚠️  
+
+![graphes des kpi](csv-kpi/graphes.png)**TO DO : Séparer les graphes**
 
 ---
 
