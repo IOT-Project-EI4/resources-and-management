@@ -51,8 +51,8 @@
 
 | Indicateur concerné | Action recommandée | Responsable | Délai |
 |---------------------|-------------------|-------------|-------|
-| Charge de travail élevée | Répartition des tâches optimisée | Chef de projet | 2 semaines |
-| Consommation énergétique trop haute | Optimisation des périodes de veille des capteurs | Ingénieur IoT | 1 mois |
-| Tâches en retard | Réévaluation du planning | PMO | 1 semaine |
+| Charge de travail élevée | Répartition des tâches optimisée | Valentin | 2 semaines |
+| Consommation énergétique trop haute | Optimisation des périodes de veille des capteurs | Inessa | 1 mois |
+| Tâches en retard | Réévaluation du planning | Jana | 1 semaine |
 
 ---
