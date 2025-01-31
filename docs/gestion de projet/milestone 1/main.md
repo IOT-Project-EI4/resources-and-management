@@ -13,6 +13,7 @@
 - [ ] Plannification
 - [ ] Charte d'équipe
 - [x] Fiches d'auto évaluation
+- [x] Tests de perception
 - [ ] Schéma fonctionnel et description des fonctionnalités
 - [ ] Cahier des charges
 - [ ] Liste du matériel nécessaire
@@ -22,7 +23,7 @@
 
 Schema de la structure de découpage du projet : [management/pbs.excalidraw](management/pbs.excalidraw)
 
-![PBS](image.png)
+![PBS](images/pbs.png)
 
 ## L’organigramme des tâches, WBS : Work Breakdown Structure
 
@@ -40,7 +41,11 @@ Tous ces éléments sont accessibles depuis le tableau de bord du projet dans le
 
 Vue Kanban : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/2](https://github.com/orgs/IOT-Project-EI4/projects/3/views/2)
 
+![Kanban](images/kanban.png)
+
 Vue Gantt : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/1](https://github.com/orgs/IOT-Project-EI4/projects/3/views/1)
+
+![Gantt](images/gantt.png)
 
 ## Communication
 
@@ -56,21 +61,31 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 
 ## Fiches d'auto évaluation
 
-Valentin Le Lievre : [management/fiches auto evaluation/valentin le lievre.pdf](management/fiches%20auto%20evaluation/valentin%20le%20lievre.pdf)
+[Valentin Le Lievre](management/fiches%20auto%20evaluation/valentin%20le%20lievre.pdf), [Jana Dagher](management/fiches%20auto%20evaluation/jana%20dagher.pdf), [Inessa Kechek](management/fiches%20auto%20evaluation/inessa%20kechek.pdf), [Joakim Lagarde](management/fiches%20auto%20evaluation/joakim%20lagarde.pdf)
 
-Jana Dagher : [management/fiches auto evaluation/jana dagher.pdf](management/fiches%20auto%20evaluation/jana%20dagher.pdf)
+## Tests de perception
 
-Inessa Kechek : [management/fiches auto evaluation/inessa kechek.pdf](management/fiches%20auto%20evaluation/inessa%20kechek.pdf)
-
-Joakim Lagarde : [management/fiches auto evaluation/joakim lagarde.pdf](management/fiches%20auto%20evaluation/joakim%20lagarde.pdf)
+[Valentin Le Lievre](management/tests%20de%20perception/valentin%20le%20lievre.xlsx), [Jana Dagher](management/tests%20de%20perception/jana%20dagher.xlsx), [Inessa Kechek](management/tests%20de%20perception/inessa%20kechek.xlsx), [Joakim Lagarde](management/tests%20de%20perception/joakim%20lagarde.xlsx)
 
 ## Schéma fonctionnel et description des fonctionnalités
 
-Description des fonctionnalitées : [../../ideas/draft.excalidraw](../../ideas/draft.excalidraw)
+#### Description des fonctionnalités
 
-Schéma fonctionnel : [../../ideas/module.excalidraw](../../ideas/module.excalidraw)
+- captation de la température et de l'humidité en profondeur
+- captation de la température et de l'humidité en surface
+- récupération da la luminiosté ainsi que son spectre de couleur
+- récupération du tau de CO2 ambiant
+- récupération de la température et de l'humidité de l'air
+- camera pour prendre des images
+- communication LoRaWAN pour envoyer les données (sauf images)
+- communication 5G pour envoyer les images
+- alimentation par batterie et panneau solaire
 
-**TODO :** insert screenshot when drawings are finalized
+[Schéma blocs du système](../../ideas/draft.excalidraw)
+
+[Schéma fonctionnel](../../ideas/module.excalidraw)
+
+![Dessin fonctionnel du module](images/module.png)
 
 ## Cahier des charges
 
@@ -90,4 +105,6 @@ Le cahier des charges est disponible ici : [Cahier des charges](cahier%20des%20c
 
 ## Bibliographie
 
-Liens vers les ressources utilisées : [../../links.md](../../links.md)
+Liens vers les ressources utilisées : [bibliographie.md](bibliographie.md)
+
+**TODO :** copy links.md to bibliographie.md
