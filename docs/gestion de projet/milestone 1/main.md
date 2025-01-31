@@ -69,9 +69,21 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 
 ## Schéma fonctionnel et description des fonctionnalités
 
-Description des fonctionnalitées : [../../ideas/draft.excalidraw](../../ideas/draft.excalidraw)
+#### Description des fonctionnalités
 
-Schéma fonctionnel : [../../ideas/module.excalidraw](../../ideas/module.excalidraw)
+- captation de la température et de l'humidité en profondeur
+- captation de la température et de l'humidité en surface
+- récupération da la luminiosté ainsi que son spectre de couleur
+- récupération du tau de CO2 ambiant
+- récupération de la température et de l'humidité de l'air
+- camera pour prendre des images
+- communication LoRaWAN pour envoyer les données (sauf images)
+- communication 5G pour envoyer les images
+- alimentation par batterie et panneau solaire
+
+[Schéma blocs du système](../../ideas/draft.excalidraw)
+
+[Schéma fonctionnel](../../ideas/module.excalidraw)
 
 ![Dessin fonctionnel du module](images/module.png)
 
@@ -93,4 +105,6 @@ Le cahier des charges est disponible ici : [Cahier des charges](cahier%20des%20c
 
 ## Bibliographie
 
-Liens vers les ressources utilisées : [../../links.md](../../links.md)
+Liens vers les ressources utilisées : [bibliographie.md](bibliographie.md)
+
+**TODO :** copy links.md to bibliographie.md

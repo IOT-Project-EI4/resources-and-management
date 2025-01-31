@@ -9,3 +9,9 @@
 ## Microcontroller
 
 [ESP 32 power comsuption](https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/)
+
+[SG Wireless docs](https://docs.sgwireless.com/)
+[F1 kit power comsuption](https://docs.sgwireless.com/sg-products/f1-smart-module/module-interface/)
+
+## Sensors
+
