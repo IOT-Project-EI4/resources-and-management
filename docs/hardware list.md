@@ -1,6 +1,6 @@
 # Hardware list
 
-Final hardware picks adapted to project needs and logistic requirements
+Final hardware picks adapted to project requirements
 
 ## Inground sensors
 
