@@ -27,7 +27,9 @@ Schema de la structure de découpage du projet : [management/pbs.excalidraw](man
 
 ## L’organigramme des tâches, WBS : Work Breakdown Structure
 
-**TODO**
+Organigramme des tâches : [management/wbs.excalidraw](management/wbs.excalidraw)
+
+![WBS](images/wbs.png)
 
 ## Gestions des risques, AMDEC
 
