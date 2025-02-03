@@ -4,9 +4,9 @@
 
 | Indicateur | Objectif | Valeur actuelle | Seuil d'alerte | Statut 🚦 |
 |------------|----------|----------------|---------------|------------|
-| 📅 Avancement du projet (%) | ≥ 90% | **85%** | < 80% | 🟡 En cours |
-| 📑 Livrables validés (%) | 100% | **95%** | < 90% | 🟢 OK |
-| 🏗 Tâches en retard (%) | < 10% | **15%** | > 20% | 🔴 Risque |
+| 📅 Avancement du projet (%) | ≥ 80% | **75%** | < 80% | 🟡 En cours |
+| 📑 Livrables validés (%) | 100% | **100%** | < 100% | 🟢 OK |
+| 🏗 Tâches en retard (%) | < 10% | **5%** | < 20% | 🟢 OK |
 | ⏳ Respect du planning (%) | ≥ 95% | **88%** | < 85% | 🟡 En vigilance |
 
 ---
@@ -15,13 +15,15 @@
 
 | Indicateur | Objectif | Valeur actuelle | Seuil critique | Statut 🚦 |
 |------------|----------|----------------|---------------|------------|
-| 👥 Charge de travail (%) | ≤ 100% | **105%** | > 110% | 🟡 Vigilance |
-| 💰 Dépenses réalisées (%) | ≤ 100% du budget | **92%** | > 100% | 🟢 OK |
-| 🔧 Disponibilité matériel (%) | ≥ 90% | **85%** | < 80% | 🟡 En cours |
+| 👥 Charge de travail (%) | ≤ 100% | **80%** | > 110% | 🟡 Vigilance |
+| 💰 Dépenses réalisées (%) | ≤ 100% du budget | **0%** | < 100% | 🟡 En cours |
+| 🔧 Disponibilité matériel (%) | ≥ 90% | **50%** | < 80% | 🟡 En cours |
 
 ---
 
 ## 3️⃣ Performance du Système IoT  
+
+Les données sont mises à titre de simululation, étant donné que nous n'avons pas encore mis en place notre projet. 
 
 | Indicateur | Objectif | Valeur actuelle | Seuil critique | Statut 🚦 |
 |------------|----------|----------------|---------------|------------|
@@ -33,7 +35,9 @@
 
 ## 4️⃣ Tendance des Indicateurs  
 
-📈 **Évolution des indicateurs clés sur les 4 derniers mois, simulation de la situation en avril** :  
+Même problème ici, l'évolution est simulée.
+
+📈 **Évolution des indicateurs clés** :  
 
 - **Avancement du projet** en hausse 📊
 
@@ -43,11 +47,15 @@
 
 - **Consommation énergétique** en dépassement ⚠️  
 
-![graphes des kpi](csv-kpi/graphes.png)**TO DO : Séparer les graphes**
+Si nous avions fait un tableau de bord après la fin de la conception du projet, voici le type de résultat que nous aurions.
+
+![graphes des kpi](csv-kpi/graphes.png)
 
 ---
 
 ## 5️⃣ Actions Correctives  
+
+Voici un exemple d'action qui peuvent être menées en réponse à des indicateurs de performance alarmants.
 
 | Indicateur concerné | Action recommandée | Responsable | Délai |
 |---------------------|-------------------|-------------|-------|
