@@ -34,12 +34,12 @@ All-in-one temperature, humidity and carbon dioxide sensor:
 [SCD41](https://www.adafruit.com/product/5190)
 
 - **Precision:** 
-    - - CO2 sensing performance: ±(40 ppm + 5% of reading) for 400 ppm to 5000 ppm measurement conditions
-    - - Temperature sensing performance: ± 1.5 °C for measurements between -10 °C and 60 °C 
-    - - Humidity sensing performance: ±9 %RH
+    - CO2 sensing performance: ±(40 ppm + 5% of reading) for 400 ppm to 5000 ppm measurement conditions
+    - Temperature sensing performance: ± 1.5 °C for measurements between -10 °C and 60 °C 
+    - Humidity sensing performance: ±9 %RH
 - **Consumption:**
-    - - 15 mA (typical average supply current for periodic 5-second-interval measurements)
-    - - 0.5 mA (average supply current for 5-minute-interval measurements)
+    - 15 mA (typical average supply current for periodic 5-second-interval measurements)
+    - 0.5 mA (average supply current for 5-minute-interval measurements)
 - **Price:** 49.95$
 - I2C interface
 - PCB base with standard STEMMA QT connectors
@@ -89,8 +89,14 @@ Lux sensor:
 - extremely low power
 
 
-## Solar panel (?)
+## Solar panel
 
-Purchase link:
-- [Solar panel - Aliexpress](https://fr.aliexpress.com/item/1005002996845292.html?spm=a2g0n.productlist.0.0.3f6a504adAED2o&browser_id=9912822ba7104565be8b54cba042be38&aff_platform=msite&m_page_id=uhemhfyihucauiqa1949d31b18a11be4e5b4169a4f&gclid=&pdp_npi=4%40dis%21EUR%213.65%210.99%21%21%213.71%211.00%21%402103894417378040671818237e8bad%2112000023131955730%21sea%21FR%210%21ABX&algo_pvid=fbef27f0-ebd8-4d19-bb38-3ce8c8e70ac6&search_p4p_id=202501250321072425412939565280013268461_3&_gl=1*1y16e74*_ga*MjE1MjE3MzMwLjE3Mzc4MDQwNjk.*_ga_VED1YSGNC7*MTczNzgwNDA2OC4xLjAuMTczNzgwNDA3MC42MC4wLjA.*_gcl_au*MjAyMzQ1MDk0Ny4xNzM3ODA0MDcx)
+We did not perform detailed research for possible solar panels, but one possible options will be the following:
 
+Solar panel - Aliexpress:
+
+- price 1€
+- 5V & ~160mA output
+- small package, 70 * 90mm
+
+[Purchase link](https://fr.aliexpress.com/item/1005002996845292.html?spm=a2g0n.productlist.0.0.3f6a504adAED2o&browser_id=9912822ba7104565be8b54cba042be38&aff_platform=msite&m_page_id=uhemhfyihucauiqa1949d31b18a11be4e5b4169a4f&gclid=&pdp_npi=4%40dis%21EUR%213.65%210.99%21%21%213.71%211.00%21%402103894417378040671818237e8bad%2112000023131955730%21sea%21FR%210%21ABX&algo_pvid=fbef27f0-ebd8-4d19-bb38-3ce8c8e70ac6&search_p4p_id=202501250321072425412939565280013268461_3&_gl=1*1y16e74*_ga*MjE1MjE3MzMwLjE3Mzc4MDQwNjk.*_ga_VED1YSGNC7*MTczNzgwNDA2OC4xLjAuMTczNzgwNDA3MC42MC4wLjA.*_gcl_au*MjAyMzQ1MDk0Ny4xNzM3ODA0MDcx)
