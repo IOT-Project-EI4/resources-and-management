@@ -4,7 +4,7 @@
 
 | Indicateur | Objectif | Valeur actuelle | Seuil d'alerte | Statut 🚦 |
 |------------|----------|----------------|---------------|------------|
-| 📅 Avancement du projet (%) | ≥ 80% | **75%** | < 80% | 🟡 En cours |
+| 📅 Avancement du projet (%) | ≥ 90% | **15%** | < 80% | 🟡 En cours |
 | 📑 Livrables validés (%) | 100% | **100%** | < 100% | 🟢 OK |
 | 🏗 Tâches en retard (%) | < 10% | **5%** | < 20% | 🟢 OK |
 | ⏳ Respect du planning (%) | ≥ 95% | **88%** | < 85% | 🟡 En vigilance |
@@ -55,7 +55,7 @@ Si nous avions fait un tableau de bord après la fin de la conception du projet,
 
 ## 5️⃣ Actions Correctives  
 
-Voici un exemple d'action qui peuvent être menées en réponse à des indicateurs de performance alarmants.
+Voici un exemple d'actions qui peuvent être menées en réponse à des indicateurs de performance alarmants.
 
 | Indicateur concerné | Action recommandée | Responsable | Délai |
 |---------------------|-------------------|-------------|-------|
