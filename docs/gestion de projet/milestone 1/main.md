@@ -33,9 +33,9 @@
 
 ## Gestion des tâches et du code, Gantt et Kanban (tableau de bord)
 
-Nous avons décider d'utilisr les outils intégrés dans GitHub pour gérer notre projet. Nous avons donc utilisé les issues pour lister les tâches à réaliser, les milestones pour définir les étapes du projet et les projets pour organiser les tâches.
+Nous avons décidé d'utiliser les outils intégrés dans GitHub pour gérer notre projet. Nous avons donc utilisé les `issues` pour lister les tâches à réaliser, les `milestones` pour définir les étapes du projet et les projets pour organiser les tâches.
 
-Tous ces éléments sont accessibles depuis le tableau de bord du projet dans lequel plusieurs vues sont disponibles tel que le tableau kanban, le tableau de bord des issues et pull requests et le Gantt.
+Tous ces éléments sont accessibles depuis le tableau de bord du projet dans lequel plusieurs vues sont disponibles telles que le tableau `kanban`, le tableau de bord des `issues` et `pull requests` et le Gantt.
 
 Vue Kanban : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/2](https://github.com/orgs/IOT-Project-EI4/projects/3/views/2)
 
@@ -51,7 +51,9 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 
 ## Plannification
 
-**TODO**
+Pour l'organisation et les revues en groupes, nous allons utiliser les horaires de cours prévu pour le projet. Nous avons aussi prévu des revues juste avant l'oral de chaque rendu pour s'assurer que tout est prêt.
+
+![Plannification des revues de groupe](images/plannification.png)
 
 ## Charte d'équipe
 
@@ -67,17 +69,21 @@ La charte d'équipe est disponible ici : [Charte d'équipe](management/charte.md
 
 ## Schéma fonctionnel et description des fonctionnalités
 
-#### Description des fonctionnalités
+Description des fonctionnalités :
 
-- captation de la température et de l'humidité en profondeur
-- captation de la température et de l'humidité en surface
-- récupération da la luminiosté ainsi que son spectre de couleur
-- récupération du taux de CO2 ambiant
-- récupération de la température et de l'humidité de l'air
+- captage de la température et de l'humidité en profondeur
+- captage de la température et de l'humidité en surface
+- captage da la luminiosté ainsi que son spectre de couleur
+- captage du taux de CO2 ambiant
+- captage de la température et de l'humidité de l'air
 - camera pour prendre des images
 - communication LoRaWAN pour envoyer les données (sauf images)
-- communication 5G pour envoyer les images
+- communication 5G (ou wifi au besoin) pour envoyer les images
 - alimentation par batterie et panneau solaire
+- interface web pour visualiser les données
+- (optionnel) captage du pH du sol et des parametres NPK
+
+<br />
 
 ![Dessin fonctionnel du module](images/module.png)
 
@@ -92,6 +98,8 @@ Le cahier des charges est disponible ici : [Cahier des charges](cahier%20des%20c
 La liste du matériel que nous avons sélectionné est disponible ici : [Liste matériel](hardware%20list.md)
 
 ## Budget prévisionnel
+
+# TODO
 
 ### Matériel
 

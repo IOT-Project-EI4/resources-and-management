@@ -17,8 +17,8 @@ Capacitive soil moisture sensor:
 [Gravity: IP65 Waterproof & Corrosion-Resistant Capacitive Soil Moisture Sensor](https://fr.rs-online.com/web/p/kits-de-developpement-pour-capteur/2049905?searchId=dd258be7-0477-4060-ad04-d54c399e6b89&gb=s)
 [SEN0308](https://wiki.dfrobot.com/Waterproof_Capacitive_Soil_Moisture_Sensor_SKU_SEN0308)
 
-- **Precision:** 
-- **Consumption:** 
+- **Precision:**
+- **Consumption:**
 - **Price:** 14.76 euros HT
 - analog output
 - corrosion-resistent and waterproof
@@ -26,20 +26,21 @@ Capacitive soil moisture sensor:
 
 Optional pH-meter
 
-
 ## Outground sensors
 
 All-in-one temperature, humidity and carbon dioxide sensor:
 [True CO2 Temperature and Humidity Sensor](https://sensirion.com/media/documents/48C4B7FB/66E05452/CD_DS_SCD4x_Datasheet_D1.pdf)
 [SCD41](https://www.adafruit.com/product/5190)
 
-- **Precision:** 
-    - CO2 sensing performance: ±(40 ppm + 5% of reading) for 400 ppm to 5000 ppm measurement conditions
-    - Temperature sensing performance: ± 1.5 °C for measurements between -10 °C and 60 °C 
-    - Humidity sensing performance: ±9 %RH
+- **Precision:**
+  - CO2 sensing performance: ±(40 ppm + 5% of reading) for 400 ppm to 5000 ppm measurement conditions
+  - Temperature sensing performance: ± 1.5 °C for measurements between -10 °C and 60 °C
+  - Humidity sensing performance: ±9 %RH
+
 - **Consumption:**
-    - 15 mA (typical average supply current for periodic 5-second-interval measurements)
-    - 0.5 mA (average supply current for 5-minute-interval measurements)
+  - 15 mA (typical average supply current for periodic 5-second-interval measurements)
+  - 0.5 mA (average supply current for 5-minute-interval measurements)
+
 - **Price:** 49.95$
 - I2C interface
 - PCB base with standard STEMMA QT connectors
@@ -76,7 +77,6 @@ Lux sensor:
 - built-in ADC
 - 3.3V power supply-compatible and I2C support
 
-
 ## Microcontroller
 
 [F1 Smart Module - SG Wireless](https://docs.sgwireless.com)
@@ -87,7 +87,6 @@ Lux sensor:
 - ESP32 MCU compatible
 - MicroPython programmable with 27 IOs on module pads
 - extremely low power
-
 
 ## Solar panel
 
