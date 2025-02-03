@@ -5,29 +5,25 @@
 ### Todo:
 
 - [x] Structure de découpage du projet, PBS : Product Breakdown Structure
-- [ ] L’organigramme des tâches, WBS : Work Breakdown Structure
+- [x] L’organigramme des tâches, WBS : Work Breakdown Structure
 - [ ] Gestion des risques, AMDEC
 - [X] Indicateur de performance
 - [x] Gestion des tâches et du code, Gantt et Kanban (tableau de bord)
 - [x] Communication
 - [ ] Plannification
-- [ ] Charte d'équipe
+- [x] Charte d'équipe
 - [x] Fiches d'auto évaluation
 - [x] Tests de perception
-- [ ] Schéma fonctionnel et description des fonctionnalités
-- [ ] Cahier des charges
-- [ ] Liste du matériel nécessaire
+- [x] Schéma fonctionnel et description des fonctionnalités
+- [x] Cahier des charges
+- [x] Liste du matériel nécessaire
 - [ ] Budget prévisionnel
 
 ## Structure de découpage du projet, PBS : Product Breakdown Structure
 
-Schema de la structure de découpage du projet : [management/pbs.excalidraw](management/pbs.excalidraw)
-
 ![PBS](images/pbs.png)
 
 ## L’organigramme des tâches, WBS : Work Breakdown Structure
-
-Organigramme des tâches : [management/wbs.excalidraw](management/wbs.excalidraw)
 
 ![WBS](images/wbs.png)
 
@@ -59,7 +55,7 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 
 ## Charte d'équipe
 
-**TODO :** insérer un lien vers la charte d'équipe
+La charte d'équipe est disponible ici : [Charte d'équipe](management/charte.md)
 
 ## Fiches d'auto évaluation
 
@@ -76,18 +72,16 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 - captation de la température et de l'humidité en profondeur
 - captation de la température et de l'humidité en surface
 - récupération da la luminiosté ainsi que son spectre de couleur
-- récupération du tau de CO2 ambiant
+- récupération du taux de CO2 ambiant
 - récupération de la température et de l'humidité de l'air
 - camera pour prendre des images
 - communication LoRaWAN pour envoyer les données (sauf images)
 - communication 5G pour envoyer les images
 - alimentation par batterie et panneau solaire
 
-[Schéma blocs du système](../../ideas/draft.excalidraw)
-
-[Schéma fonctionnel](../../ideas/module.excalidraw)
-
 ![Dessin fonctionnel du module](images/module.png)
+
+![Schéma bloc des fonctionnalitées](images/bloc%20diagram.png)
 
 ## Cahier des charges
 
@@ -95,7 +89,7 @@ Le cahier des charges est disponible ici : [Cahier des charges](cahier%20des%20c
 
 ## Liste du matériel nécessaire
 
-**TODO :** insérer un lien vers la liste du matériel nécessaire
+La liste du matériel que nous avons sélectionné est disponible ici : [Liste matériel](hardware%20list.md)
 
 ## Budget prévisionnel
 
@@ -107,6 +101,4 @@ Le cahier des charges est disponible ici : [Cahier des charges](cahier%20des%20c
 
 ## Bibliographie
 
-Liens vers les ressources utilisées : [bibliographie.md](bibliographie.md)
-
-**TODO :** copy links.md to bibliographie.md
+Liens vers les ressources utilisées : [Bibliographie.md](management/bibliographie.md)

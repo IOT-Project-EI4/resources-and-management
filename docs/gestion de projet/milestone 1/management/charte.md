@@ -9,8 +9,6 @@
 - **Avoir de l'intégrité et de l'ambition.**
 - **Participer activement** a la realisation du projet.
 
----
-
 ## 🎭 Rôles et responsabilités dans l’équipe
 
 - **Chaque membre a un rôle défini** en fonction de ses compétences, de sa motivation et de ses préférences individuelles.
@@ -33,8 +31,6 @@
 
 - **Les rôles sont tournants** surtout entre les 3 ingénieurs en fonction des besoins et de l’évolution du projet.
 
----
-
 ## 📡 La communication au sein de l’équipe
 
 - **Outils de communication**
@@ -49,16 +45,12 @@
 - **Animation des réunions** : assurée par le chef de projet ou un membre désigné.  
 - **Compte-rendus et rapports** : Rédigés à tour de rôle par un membre désigné via un *issue* sur GitHub.
 
----
-
 ## ⚖️ La prise de décision au sein de l’équipe
 
 - **Décisions prises collectivement après les réunions.**  
 - En cas de désaccord, un **vote est organisé.**  
 - Le chef de projet privilégie toujours de **consulter les membres de l’équipe** mais peut trancher si nécessaire.  
 - Certaines décisions spécifiques peuvent être **déléguées aux ingénieurs specialistes** du sujet.  
-
----
 
 ## ⚔️ La Gestion des conflits
 
