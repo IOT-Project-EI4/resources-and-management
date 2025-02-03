@@ -16,7 +16,7 @@ L’agriculture sous serre permet un meilleur contrôle des conditions climatiqu
 
 ### 1.3 Périmètre
 
-Ce projet concerne uniquement une serre de **[dimensions à préciser]**, équipée de capteurs connectés.  
+Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr l'école, équipée de capteurs connectés.  
 
 ---
 
