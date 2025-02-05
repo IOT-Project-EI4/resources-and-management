@@ -88,7 +88,7 @@ Tableau des fonctions :
 | Fonctions de service             | Critères d'appréciation                   | Niveau d'appréciation | Flexibilité |
 |---------------------------------|--------------------------------------------|-----------------------|-------------|
 | Acquisition des données capteurs| Précision des mesures, taux de collecte, fiabilité | Élevé         | Moyenne     |
-| Transmission via LoRa           | Taux de réussite, couverture, latence      | Élevé                 | Faible      |
+| Transmission des données        | Taux de réussite, couverture, latence      | Élevé                 | Faible      |
 | Traitement et analyse           | Rapidité, exactitude, sécurité             | Moyen                 | Élevée      |
 | Interface Dashboard             | Clarté, ergonomie, temps de réponse        | Élevé                 | Moyenne     |
 
