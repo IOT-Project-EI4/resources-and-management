@@ -18,8 +18,6 @@ L’agriculture sous serre permet un meilleur contrôle des conditions climatiqu
 
 Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr l'école, équipée de capteurs connectés.  
 
----
-
 ## 2. Description du Besoin
 
 ### 2.1 Fonctionnalités attendues
@@ -27,8 +25,6 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 - 📡 **Acquisition de données** : capteurs de température, humidité, CO₂, luminosité et d'image
 - 📲 **Communication** : transmission des données via LoRaWAN, Wi-Fi ou GSM  
 - 📊 **Interface utilisateur** : application web/mobile pour supervision et alertes  
-
----
 
 ## 3. Contraintes
 
@@ -49,18 +45,13 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 - Coût matériel estimé : **[montant] €**  
 - Développement logiciel : **[montant] €**  
 
----
-
 ## 4. Architecture du Système
 
 ### 4.1 Schéma général
 
-Voici le schéma d'un module :
-[Schéma du projet](docs/ideas/module.excalidraw)
-**TO DO**
+[Schéma du module](images/module.png)
 
-[Schéma du projet](docs/ideas/draft.excalidraw)
-**TO DO**
+[Schémadu projet](images/bloc%20diagram.png)
 
 ### 4.2 Composants  
 
@@ -76,8 +67,6 @@ Pour chaque module :
 
 Ce qui fait pour [nombre de modules] un total de 6*[nombre de modules] composants.
 
----
-
 ## 5. Interfaces Utilisateur
 
 ### 5.1 Dashboard
@@ -90,13 +79,9 @@ Ce qui fait pour [nombre de modules] un total de 6*[nombre de modules] composant
 - API REST pour l’accès aux données  
 - Stockage des mesures et historique  
 
----
-
 ## 6. Conclusion
 
 Ce projet vise à démontrer comment l’IoT peut améliorer la gestion des serres agricoles en automatisant la collecte de données et le contrôle des paramètres environnementaux.
-
----
 
 ## 7. Annexes
 
