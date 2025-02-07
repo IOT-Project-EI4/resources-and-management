@@ -13,7 +13,7 @@
 
 - **Chaque membre a un rôle défini** en fonction de ses compétences, de sa motivation et de ses préférences individuelles.
 
-### **1.Chef de projet & Responsable communication**
+### **1.Chef de projet & Responsable communication [Valentin]**
 
      Responsable de la gestion du temps, des risques et de la communication.
 

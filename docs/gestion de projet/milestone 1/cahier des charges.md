@@ -1,6 +1,4 @@
-# Cahier des Charges
-
-## Projet IoT Smart Farming
+# Cahier des Charges - Projet IoT Smart Farming
 
 ## 1. Introduction
 
@@ -22,18 +20,18 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 
 ### 2.1 Fonctionnalités attendues
 
-- 📡 **Acquisition de données** : capteurs de température, humidité, CO₂, luminosité et d'image
-- 📲 **Communication** : transmission des données via LoRaWAN, Wi-Fi ou GSM  
-- 📊 **Interface utilisateur** : application web/mobile pour supervision et alertes  
+- 📡 **Acquisition de données** : capteurs de température, humidité, CO₂, luminosité et d'image, en option le ph et les paramètres NPK
+- 📲 **Communication** : transmission des données via LoRaWAN, Wi-Fi ou 5G
+- 📊 **Interface utilisateur** : application web / mobile pour supervision et alertes  
 
 ## 3. Contraintes
 
 ### 3.1 Techniques
 
-- Microcontrôleur : **ESP32 / STM32 / autre**  
-- Communication : **LoRa / Wi-Fi / GSM / BLE**  
-- Alimentation : **Batterie + panneau solaire**  
-- Logiciel : **Firmware embarqué + Backend cloud + Application web/mobile**  
+- Microcontrôleur : **F1 de SG Wireless**  
+- Communication : **LoRa / Wi-Fi / 5G / BLE**  
+- Alimentation : **Batterie + panneaux solaires**  
+- Logiciel : **Firmware embarqué + Backend cloud + Application web/mobile**
 
 ### 3.2 Réglementaires
 
@@ -42,30 +40,34 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 
 ### 3.3 Budget
 
-- Coût matériel estimé : **[montant] €**  
-- Développement logiciel : **[montant] €**  
+# TODO
+
+- Coût matériel estimé : **[montant] €**
+- Développement logiciel : **[montant] €**
 
 ## 4. Architecture du Système
 
 ### 4.1 Schéma général
 
-[Schéma du module](images/module.png)
+Voici le schéma d'un module :
 
-[Schémadu projet](images/bloc%20diagram.png)
+![Schéma du projet](images/module.png)
+
+![Schéma bloc des fonctionnalitées](images/bloc%20diagram.png)
 
 ### 4.2 Composants  
 
 Pour chaque module :
 
-| Type | Composant | Quantité |
-|------|----------|----------|  
-| Microcontrôleur | A définir | 1 |  
-| Capteur Temp/Hum | A définir | 2 |  
-| Capteur CO₂ | A définir | 1 |
-| Appareil Photo | A définir | 1 |  
-| Communication | Module LoRa A définir | 1 |  
+| Type                | Composant                       | Quantité      |
+| ------------------- | ------------------------------- | ------------- |  
+| Microcontrôleur     | F1 de SG Wireless               | 1             |  
+| Capteur Temp/Hum    | DF Robot inground soil humidity | 2             |  
+| Capteur CO₂         | SCD 40                          | 1             |
+| Appareil Photo      | Module camera OV5640            | 1             |  
+| Communication       | Module Lora / 5G intégré au MCU | 1             |  
 
-Ce qui fait pour [nombre de modules] un total de 6*[nombre de modules] composants.
+Ce qui fait pour 36 un total de `6 (nb de modules produit) * 6` composants.
 
 ## 5. Interfaces Utilisateur
 
@@ -77,14 +79,19 @@ Ce qui fait pour [nombre de modules] un total de 6*[nombre de modules] composant
 ### 5.2 API et Cloud
 
 - API REST pour l’accès aux données  
-- Stockage des mesures et historique  
+- Stockage des mesures et historique dans une base de données
 
-## 6. Conclusion
+## 6. Caractérisation des fonction
+
+Tableau des fonctions :
+
+| Fonctions de service             | Critères d'appréciation                   | Niveau d'appréciation | Flexibilité |
+|---------------------------------|--------------------------------------------|-----------------------|-------------|
+| Acquisition des données capteurs| Précision des mesures, taux de collecte, fiabilité | Élevé         | Moyenne     |
+| Transmission des données        | Taux de réussite, couverture, latence      | Élevé                 | Faible      |
+| Traitement et analyse           | Rapidité, exactitude, sécurité             | Moyen                 | Élevée      |
+| Interface Dashboard             | Clarté, ergonomie, temps de réponse        | Élevé                 | Moyenne     |
+
+## 7. Conclusion
 
 Ce projet vise à démontrer comment l’IoT peut améliorer la gestion des serres agricoles en automatisant la collecte de données et le contrôle des paramètres environnementaux.
-
-## 7. Annexes
-
-- 📎 Documentation des capteurs
-- 📎 Schémas électroniques et PCB  
-- 📎 Références techniques

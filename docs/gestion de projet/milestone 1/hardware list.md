@@ -34,11 +34,13 @@ All-in-one temperature, humidity and carbon dioxide sensor:
 
 - **Precision:**
   - CO2 sensing performance: ±(40 ppm + 5% of reading) for 400 ppm to 5000 ppm measurement conditions
-  - Temperature sensing performance: ± 1.5 °C for measurements between -10 °C and 60 °C 
+  - Temperature sensing performance: ± 1.5 °C for measurements between -10 °C and 60 °C
   - Humidity sensing performance: ±9 %RH
+
 - **Consumption:**
   - 15 mA (typical average supply current for periodic 5-second-interval measurements)
   - 0.5 mA (average supply current for 5-minute-interval measurements)
+
 - **Price:** 49.95$
 - I2C interface
 - PCB base with standard STEMMA QT connectors
