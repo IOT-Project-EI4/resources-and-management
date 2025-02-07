@@ -85,12 +85,12 @@ Ce qui fait pour 36 un total de `6 (nb de modules produit) * 6` composants.
 
 Tableau des fonctions :
 
-| Fonctions de service             | Critères d'appréciation                   | Niveau d'appréciation | Flexibilité |
-|---------------------------------|--------------------------------------------|-----------------------|-------------|
-| Acquisition des données capteurs| Précision des mesures, taux de collecte, fiabilité | Élevé         | Moyenne     |
-| Transmission des données        | Taux de réussite, couverture, latence      | Élevé                 | Faible      |
-| Traitement et analyse           | Rapidité, exactitude, sécurité             | Moyen                 | Élevée      |
-| Interface Dashboard             | Clarté, ergonomie, temps de réponse        | Élevé                 | Moyenne     |
+| Fonctions de service              | Critères d'appréciation                            | Niveau d'appréciation   | Flexibilité   |
+| --------------------------------- | -------------------------------------------------- | ----------------------- | ------------- |
+| Acquisition des données capteurs  | Précision des mesures, taux de collecte, fiabilité | Élevé                   | Moyenne       |
+| Transmission des données          | Taux de réussite, couverture, latence              | Élevé                   | Faible        |
+| Traitement et analyse             | Rapidité, exactitude, sécurité                     | Moyen                   | Élevée        |
+| Interface Dashboard               | Clarté, ergonomie, temps de réponse                | Élevé                   | Moyenne       |
 
 ## 7. Conclusion
 
