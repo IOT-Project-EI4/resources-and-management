@@ -1,24 +1,5 @@
 # Milestone 1
 
-**Due date :** le 11/02/2025
-
-### Todo:
-
-- [x] Structure de découpage du projet, PBS : Product Breakdown Structure
-- [x] L’organigramme des tâches, WBS : Work Breakdown Structure
-- [ ] Gestion des risques, AMDEC
-- [X] Indicateur de performance
-- [x] Gestion des tâches et du code, Gantt et Kanban (tableau de bord)
-- [x] Communication
-- [ ] Plannification
-- [x] Charte d'équipe
-- [x] Fiches d'auto évaluation
-- [x] Tests de perception
-- [x] Schéma fonctionnel et description des fonctionnalités
-- [x] Cahier des charges
-- [x] Liste du matériel nécessaire
-- [ ] Budget prévisionnel
-
 ## Structure de découpage du projet, PBS : Product Breakdown Structure
 
 ![PBS](images/pbs.png)

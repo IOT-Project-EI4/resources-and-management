@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 280,
-      "versionNonce": 1855510323,
+      "version": 281,
+      "versionNonce": 1202271616,
       "isDeleted": false,
       "id": "SRFy13fnlOEtPL5VIVE6q",
       "fillStyle": "solid",
@@ -26,7 +26,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1738578362992,
+      "updated": 1738570794113,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -209,7 +209,7 @@
       "containerId": "afO1XULcbQW-8Qb1pCtwV",
       "originalText": "I. Gestion du Projet",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "arrow",
@@ -335,7 +335,7 @@
       "containerId": "Qu2aLvp4Ou7B60bLs7-u5",
       "originalText": "II. Développement hardware",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "arrow",
@@ -461,7 +461,7 @@
       "containerId": "tgQiTvN3-7ZF89LZYp0Zk",
       "originalText": "III. Développement de l'application web",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "arrow",
@@ -587,12 +587,12 @@
       "containerId": "ogDzSyyOwjLa5C39-TIpL",
       "originalText": "IV. Conception mécanique et impression 3D",
       "lineHeight": 1.25,
-      "baseline": 70
+      "baseline": 71
     },
     {
       "type": "arrow",
-      "version": 622,
-      "versionNonce": 613352934,
+      "version": 623,
+      "versionNonce": 1017279872,
       "isDeleted": false,
       "id": "0FLKSVxw7F-H4LdawK98A",
       "fillStyle": "solid",
@@ -603,7 +603,7 @@
       "angle": 0,
       "x": 704.256909558143,
       "y": 184.84749392351014,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
       "width": 553.4210681777454,
       "height": 69.86473538458753,
@@ -614,7 +614,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1738532322671,
+      "updated": 1738570847327,
       "link": null,
       "locked": false,
       "startBinding": null,
@@ -639,8 +639,8 @@
     },
     {
       "type": "rectangle",
-      "version": 811,
-      "versionNonce": 961619814,
+      "version": 813,
+      "versionNonce": 1054745216,
       "isDeleted": false,
       "id": "s6JvfcZWnc2OgiE4GzlnT",
       "fillStyle": "solid",
@@ -651,7 +651,7 @@
       "angle": 0,
       "x": 1270.1216011562178,
       "y": 261.3339217581399,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
       "width": 208.0999450683594,
       "height": 85,
@@ -671,14 +671,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1738532322671,
+      "updated": 1738570701735,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 1132,
-      "versionNonce": 952322726,
+      "version": 1134,
+      "versionNonce": 1063994752,
       "isDeleted": false,
       "id": "8IrT5iE2O2cUDF_Vm0z8D",
       "fillStyle": "solid",
@@ -689,7 +689,7 @@
       "angle": 0,
       "x": 1287.391651205046,
       "y": 266.3339217581399,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
       "width": 173.55984497070312,
       "height": 75,
@@ -698,7 +698,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1738532322671,
+      "updated": 1738570701736,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -709,7 +709,7 @@
       "containerId": "s6JvfcZWnc2OgiE4GzlnT",
       "originalText": "V. Intégration globale et tests sur terrain ",
       "lineHeight": 1.25,
-      "baseline": 70
+      "baseline": 71
     },
     {
       "type": "line",
@@ -823,7 +823,7 @@
       "containerId": "JBTSfKFxKfevMCLAOidjX",
       "originalText": "Planification et coordination",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "line",
@@ -937,7 +937,7 @@
       "containerId": "42kWENPjcN9eDyDUrKwEC",
       "originalText": "Documentation",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 21
     },
     {
       "type": "line",
@@ -1095,7 +1095,7 @@
       "containerId": "XkJBYOw0IvHaXLyU315ZT",
       "originalText": "1.Programmation de la Carte",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "line",
@@ -1253,7 +1253,7 @@
       "containerId": "Fph9XpSlptNESqwHtp7sC",
       "originalText": "2.Conception de la Carte PCB",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "line",
@@ -2297,7 +2297,7 @@
       "containerId": "ffYPKtOURvyW9hctjpmua",
       "originalText": "Développement du Serveur et Intégration avec TTN",
       "lineHeight": 1.25,
-      "baseline": 70
+      "baseline": 71
     },
     {
       "type": "rectangle",
@@ -2367,7 +2367,7 @@
       "containerId": "Ro6pooiuEMEMoaM3GulWb",
       "originalText": "Développement du backend",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "rectangle",
@@ -2437,7 +2437,7 @@
       "containerId": "TGsIS6oWrjvEv4GVDhnqj",
       "originalText": "Interface de visualisation et tableau de bord",
       "lineHeight": 1.25,
-      "baseline": 70
+      "baseline": 71
     },
     {
       "type": "rectangle",
@@ -2507,7 +2507,7 @@
       "containerId": "qOQM1L-SbjEvvpKklA_wX",
       "originalText": "Sécurité et gestion des accès",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "rectangle",
@@ -2577,7 +2577,7 @@
       "containerId": "EyNWd-I_BXzYANhri6n1_",
       "originalText": "Tests unitaires et d’intégration, retours utilisateurs",
       "lineHeight": 1.25,
-      "baseline": 70
+      "baseline": 71
     },
     {
       "type": "line",
@@ -2911,7 +2911,7 @@
       "containerId": "L9eXAOM2oXgm7A_CaaWLw",
       "originalText": "1.Conception du design mécanique",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "line",
@@ -3069,7 +3069,7 @@
       "containerId": "fL2BSfo9eqxC9RFwcHsK9",
       "originalText": "2.Prototypage et impression 3D",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "line",
@@ -3405,8 +3405,8 @@
     },
     {
       "type": "text",
-      "version": 71,
-      "versionNonce": 385944762,
+      "version": 89,
+      "versionNonce": 529257088,
       "isDeleted": false,
       "id": "fuKcGsmVREDshBFGztbiC",
       "fillStyle": "solid",
@@ -3416,28 +3416,28 @@
       "opacity": 100,
       "angle": 0,
       "x": 1091.0618302996324,
-      "y": 501.89088499753734,
+      "y": 491.89088499753734,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffec99",
       "width": 144.44790649414062,
-      "height": 20,
+      "height": 40,
       "seed": 955841722,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1738532776078,
+      "updated": 1738570784368,
       "link": null,
       "locked": false,
       "fontSize": 16,
       "fontFamily": 1,
-      "text": "Modélisation CAO ",
+      "text": "Modélisation CAO \nsur OnShape ",
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "887qLovPvN0OhwfIu-8zG",
-      "originalText": "Modélisation CAO ",
+      "originalText": "Modélisation CAO sur OnShape ",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 34
     },
     {
       "type": "rectangle",
@@ -3775,8 +3775,8 @@
     },
     {
       "type": "line",
-      "version": 146,
-      "versionNonce": 1841387814,
+      "version": 147,
+      "versionNonce": 458782080,
       "isDeleted": false,
       "id": "SrwKoHa_NS29V3moPOHJF",
       "fillStyle": "solid",
@@ -3787,7 +3787,7 @@
       "angle": 0,
       "x": 1299.428318075163,
       "y": 344.3194302681846,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
       "width": 3.4285191127232792,
       "height": 292.571520124163,
@@ -3798,7 +3798,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1738532322671,
+      "updated": 1738570718807,
       "link": null,
       "locked": false,
       "startBinding": null,
@@ -3819,8 +3819,8 @@
     },
     {
       "type": "rectangle",
-      "version": 138,
-      "versionNonce": 1539785830,
+      "version": 139,
+      "versionNonce": 779609472,
       "isDeleted": false,
       "id": "LbkZCdDlTRR6YnQwQzAp_",
       "fillStyle": "solid",
@@ -3832,7 +3832,7 @@
       "x": 1330.8571510829752,
       "y": 379.7479842581399,
       "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
+      "backgroundColor": "#d0bfff",
       "width": 215.4284667968753,
       "height": 83.42854091099326,
       "seed": 389022714,
@@ -3847,7 +3847,7 @@
           "id": "TYpyj2YTctL5JOqhfCgB9"
         }
       ],
-      "updated": 1738532322671,
+      "updated": 1738570707077,
       "link": null,
       "locked": false
     },
@@ -3885,12 +3885,12 @@
       "containerId": "LbkZCdDlTRR6YnQwQzAp_",
       "originalText": "Assemblage complet du dispositif",
       "lineHeight": 1.25,
-      "baseline": 45
+      "baseline": 46
     },
     {
       "type": "rectangle",
-      "version": 153,
-      "versionNonce": 736223974,
+      "version": 154,
+      "versionNonce": 2138628736,
       "isDeleted": false,
       "id": "QnZu2jgo7JwQcSb5sNBkk",
       "fillStyle": "solid",
@@ -3902,7 +3902,7 @@
       "x": 1330.8572382760556,
       "y": 478.03370290350813,
       "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
+      "backgroundColor": "#d0bfff",
       "width": 218.85716029575914,
       "height": 93.71429443359375,
       "seed": 267625382,
@@ -3917,7 +3917,7 @@
           "id": "GPObjbRfoy1fruF8uDzMA"
         }
       ],
-      "updated": 1738532322671,
+      "updated": 1738570710643,
       "link": null,
       "locked": false
     },
@@ -3955,12 +3955,12 @@
       "containerId": "QnZu2jgo7JwQcSb5sNBkk",
       "originalText": "Tests de validation et essais sur le terrain",
       "lineHeight": 1.25,
-      "baseline": 70
+      "baseline": 71
     },
     {
       "type": "rectangle",
-      "version": 121,
-      "versionNonce": 1204216166,
+      "version": 122,
+      "versionNonce": 1211094400,
       "isDeleted": false,
       "id": "cne9yrS4GqWDjAErt1FNN",
       "fillStyle": "solid",
@@ -3972,7 +3972,7 @@
       "x": 1333.1425689122166,
       "y": 590.0337377807404,
       "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
+      "backgroundColor": "#d0bfff",
       "width": 217.14311872209828,
       "height": 88.00000871930797,
       "seed": 281340218,
@@ -3987,7 +3987,7 @@
           "id": "aiOJcX3Lo0q2t6S6_WQ1g"
         }
       ],
-      "updated": 1738532322671,
+      "updated": 1738570714285,
       "link": null,
       "locked": false
     },
@@ -4025,12 +4025,12 @@
       "containerId": "cne9yrS4GqWDjAErt1FNN",
       "originalText": " Analyse des retours et performances",
       "lineHeight": 1.25,
-      "baseline": 70
+      "baseline": 71
     },
     {
       "type": "line",
-      "version": 29,
-      "versionNonce": 1214136294,
+      "version": 30,
+      "versionNonce": 1659000192,
       "isDeleted": false,
       "id": "Yr2A12ctlQ1aOyYOr2_Jr",
       "fillStyle": "solid",
@@ -4041,7 +4041,7 @@
       "angle": 0,
       "x": 1299.4284052682433,
       "y": 422.0337290614324,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
       "width": 31.42857142857133,
       "height": 1.1428397042410552,
@@ -4052,7 +4052,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1738532322671,
+      "updated": 1738570734961,
       "link": null,
       "locked": false,
       "startBinding": null,
@@ -4073,8 +4073,8 @@
     },
     {
       "type": "line",
-      "version": 29,
-      "versionNonce": 127488806,
+      "version": 30,
+      "versionNonce": 514962816,
       "isDeleted": false,
       "id": "Mf1SSK0wYAb5hpDFlOlF3",
       "fillStyle": "solid",
@@ -4085,7 +4085,7 @@
       "angle": 0,
       "x": 1298.2855655640021,
       "y": 522.6051489135529,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
       "width": 33.71425083705367,
       "height": 1.1428397042410552,
@@ -4096,7 +4096,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1738532322671,
+      "updated": 1738570727947,
       "link": null,
       "locked": false,
       "startBinding": null,
@@ -4117,8 +4117,8 @@
     },
     {
       "type": "line",
-      "version": 43,
-      "versionNonce": 747634278,
+      "version": 44,
+      "versionNonce": 1960383872,
       "isDeleted": false,
       "id": "zWsWg0N4zlJCsxy7aU-jE",
       "fillStyle": "solid",
@@ -4129,7 +4129,7 @@
       "angle": 0,
       "x": 1297.142725859761,
       "y": 634.6051401942448,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#6741d9",
       "backgroundColor": "transparent",
       "width": 37.14285714285734,
       "height": 1.14288330078125,
@@ -4140,7 +4140,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1738532322671,
+      "updated": 1738570723089,
       "link": null,
       "locked": false,
       "startBinding": null,
