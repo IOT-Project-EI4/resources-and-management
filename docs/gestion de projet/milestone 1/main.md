@@ -36,6 +36,8 @@ Pour l'organisation et les revues en groupes, nous allons utiliser les horaires 
 
 ![Plannification des revues de groupe](images/plannification.png)
 
+Voici une estimation de la plannification des différentes phases du projet du 29 Janvier au 8 Avril :
+
 ![Plannification](images/plannification2.png)
 
 ## Charte d'équipe
@@ -82,13 +84,17 @@ La liste du matériel que nous avons sélectionné est disponible ici : [Liste m
 
 ## Budget prévisionnel
 
-# TODO
-
 ### Matériel
 
-### Humain
+![Coût Matériel](images/cout-materiel.png)
 
-**TODO**
+### Main-d'œuvre
+
+![Coût de la main-d'œuvre](images/cout-main-doeuvre.png)
+
+### Total
+
+![Coût Total](images/cout-total.png)
 
 ## Bibliographie
 
