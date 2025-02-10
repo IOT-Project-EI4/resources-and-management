@@ -42,8 +42,8 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 
 # TODO
 
-- Coût matériel estimé : **[] €**
-- Développement logiciel : **[] €**
+- Coût matériel estimé : **[montant] €**
+- Développement logiciel : **[montant] €**
 
 ## 4. Architecture du Système
 
@@ -117,8 +117,8 @@ Tableau des fonctions :
 
 | Fonctions de service              | Critères d'appréciation                            | Niveau d'appréciation / importance | Flexibilité |
 | --------------------------------- | -------------------------------------------------- | ----------------------- | ------------- |
-| Acquisition de la température proche du sol, en à 2 niveaux de profondeur | Précision des mesures à ± 0.5° C| Élevé | Moyenne|
-| Acquisition de l'humidité au sol, en à 2 niveaux de profondeur | Précision des mesures à ± 1% | Élevé | Moyenne       |
+| Acquisition de la température proche du sol, et à 2 niveaux de profondeur | Précision des mesures à ± 0.5° C| Élevé | Moyenne|
+| Acquisition de l'humidité au sol, et à 2 niveaux de profondeur | Précision des mesures à ± 1% | Élevé | Moyenne       |
 | Acquisition de l'intensité lumineuse| Précision à ± 1 Lux | Élevé | Moyenne       |
 | Acquisition du spectre de la lumière| Différentiation RGB | Élevé | Faible |
 | Acquisition du taux de CO₂|Précision à ± 40 ppm (5%)  | Élevé | Faible |
