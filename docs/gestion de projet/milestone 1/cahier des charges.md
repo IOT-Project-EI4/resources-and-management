@@ -69,29 +69,64 @@ Pour chaque module :
 
 Ce qui fait pour 36 un total de `6 (nb de modules produit) * 6` composants.
 
-## 5. Interfaces Utilisateur
+## 4. Cahier des Charges Fonctionnel
 
-### 5.1 Dashboard
+- **Collecte et suivi des données**  
+  - Système automatisé de relevés (température, humidité, CO₂, luminosité, etc.)  
+  - Interface de consultation en temps réel (application web ou mobile)  
+- **Gestion des alertes**  
+  - Notifications en cas de dépassement de seuil ou de panne d’équipement  
+  - Paramétrage personnalisé des seuils et types d’alertes  
+- **Contrôle à distance**  
+  - Activation/désactivation de dispositifs (ventilation, éclairage, arrosage)  
+  - Possibilité d’automatiser certaines actions via scénarios préconfigurés  
+- **Rapports et historique**  
+  - Enregistrement et exportation des données au format CSV ou PDF  
+  - Visualisation graphique sur des périodes définies  
+
+## 5. Cahier des Charges Technique
+
+- **Architecture matérielle**  
+  - Capteurs compatibles LoRaWAN, Wi-Fi ou 5G  
+  - Modules microcontrôleurs à faible consommation (ESP32, STM32, etc.)  
+- **Architecture logicielle**  
+  - Serveur de données (cloud ou local) pour stocker l’historique et gérer les alertes  
+  - Application web/mobiles développées en frameworks modernes (ex. React, Angular)  
+- **Protocoles de communication**  
+  - Communication chiffrée pour protéger la confidentialité et l’intégrité des données  
+  - Mise en place d’un broker MQTT ou équivalent pour la gestion des messages  
+- **Contraintes de performance**  
+  - Alimentation par batterie ou solaire pour les capteurs  
+  - Faible latence pour la remontée d’informations et la transmission des commandes  
+
+## 6. Interfaces Utilisateur
+
+### 6.1 Dashboard
 
 - Graphiques temps réel  
 - Alertes et notifications  
 
-### 5.2 API et Cloud
+### 6.2 API et Cloud
 
 - API REST pour l’accès aux données  
 - Stockage des mesures et historique dans une base de données
 
-## 6. Caractérisation des fonction
+## 7. Caractérisation des fonction
 
 Tableau des fonctions :
 
-| Fonctions de service              | Critères d'appréciation                            | Niveau d'appréciation   | Flexibilité   |
+| Fonctions de service              | Critères d'appréciation                            | Niveau d'appréciation / importance | Flexibilité |
 | --------------------------------- | -------------------------------------------------- | ----------------------- | ------------- |
-| Acquisition des données capteurs  | Précision des mesures, taux de collecte, fiabilité | Élevé                   | Moyenne       |
+| Acquisition de la température proche du sol, et à 2 niveaux de profondeur | Précision des mesures à ± 0.5° C| Élevé | Moyenne|
+| Acquisition de l'humidité au sol, et à 2 niveaux de profondeur | Précision des mesures à ± 1% | Élevé | Moyenne       |
+| Acquisition de l'intensité lumineuse| Précision à ± 1 Lux | Élevé | Moyenne       |
+| Acquisition du spectre de la lumière| Différentiation RGB | Élevé | Faible |
+| Acquisition du taux de CO₂|Précision à ± 40 ppm (5%)  | Élevé | Faible |
+| Photographie des plantes |Image de qualité correcte, 5 Mpx | Élevé | Faible |
 | Transmission des données          | Taux de réussite, couverture, latence              | Élevé                   | Faible        |
 | Traitement et analyse             | Rapidité, exactitude, sécurité                     | Moyen                   | Élevée        |
 | Interface Dashboard               | Clarté, ergonomie, temps de réponse                | Élevé                   | Moyenne       |
 
-## 7. Conclusion
+## 8. Conclusion
 
 Ce projet vise à démontrer comment l’IoT peut améliorer la gestion des serres agricoles en automatisant la collecte de données et le contrôle des paramètres environnementaux.

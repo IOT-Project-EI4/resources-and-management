@@ -57,24 +57,13 @@ GPIO-compatible camera:
 - GPIO-connector based, as opposed to more common NAP communication
 - 3.3V power supply-compatible and I2C support
 
-RGB sensor:
-[RGB Color Sensor with IR filter and White LED](https://cdn-shop.adafruit.com/datasheets/TCS34725.pdf)
-[TCS3472](https://www.adafruit.com/product/1334)
-
-- **Precision:** highly sensitive, 3 800 000:1 dynamic range
-- **Consumption:** 2.5 uA in sleep mode, and otherwise low current consumption
-- **Price:** 7.95$
-- Adjustable integration time
-- 3.3V power supply-compatible and I2C support
-
-Lux sensor:
-[Digital Luminosity/Lux/Light Sensor Breakout](https://cdn-shop.adafruit.com/datasheets/TSL2561.pdf)
-[TSL2561](https://www.adafruit.com/product/439?main_page=product_info&products_id=439)
+Luminance and color sensor:
+[Luminance and color sensor BH1745 Breakout](https://www.kubii.com/en/modules-sensors/2866-luminance-and-color-sensor-bh1745-breakout-3272496300620.html)
+[BH1745](file:///C:/Users/valen/Downloads/BH1745%20datasheet.pdf)
 
 - **Precision:** highly precise, 0.1 to 40,000 Lux
-- **Consumption:**  0.5mA when actively sensing, <15 uA when in powerdown mode
-- **Price:** 5.95$
-- built-in ADC
+- **Consumption:** 0.8 uA in sleep mode, and 130 uA in measure mode
+- **Price:** 10.96€
 - 3.3V power supply-compatible and I2C support
 
 ## Microcontroller
