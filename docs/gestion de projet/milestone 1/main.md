@@ -10,7 +10,7 @@
 
 ## Gestions des risques, AMDEC
 
-**TODO**
+![AMDEC](images/amdec.png)
 
 ## Gestion des tâches et du code, Gantt et Kanban (tableau de bord)
 
@@ -56,8 +56,8 @@ La charte d'équipe est disponible ici : [Charte d'équipe](management/charte.md
 
 Description des fonctionnalités :
 
-- captage de la température et de l'humidité en profondeur
-- captage de la température et de l'humidité en surface
+- captage de la température et de l'humidité du sol en profondeur
+- captage de la température et de l'humidité du sol en surface
 - captage da la luminiosté ainsi que son spectre de couleur
 - captage du taux de CO2 ambiant
 - captage de la température et de l'humidité de l'air
@@ -66,13 +66,12 @@ Description des fonctionnalités :
 - communication 5G (ou wifi au besoin) pour envoyer les images
 - alimentation par batterie et panneau solaire
 - interface web pour visualiser les données
-- (optionnel) captage du pH du sol et des parametres NPK
 
 <br />
 
-![Dessin fonctionnel du module](images/module.png)
-
 ![Schéma bloc des fonctionnalitées](images/bloc%20diagram.png)
+
+![Dessin fonctionnel du module](images/module.png)
 
 ## Cahier des charges
 
