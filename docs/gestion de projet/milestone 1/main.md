@@ -36,6 +36,8 @@ Pour l'organisation et les revues en groupes, nous allons utiliser les horaires 
 
 ![Plannification des revues de groupe](images/plannification.png)
 
+![Plannification](images/plannification2.png)
+
 ## Charte d'équipe
 
 La charte d'équipe est disponible ici : [Charte d'équipe](management/charte.md)
