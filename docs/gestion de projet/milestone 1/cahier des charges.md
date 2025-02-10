@@ -87,7 +87,12 @@ Tableau des fonctions :
 
 | Fonctions de service              | Critères d'appréciation                            | Niveau d'appréciation   | Flexibilité   |
 | --------------------------------- | -------------------------------------------------- | ----------------------- | ------------- |
-| Acquisition des données capteurs  | Précision des mesures, taux de collecte, fiabilité | Élevé                   | Moyenne       |
+| Acquisition de la température proche du sol, en à 2 niveaux de profondeur | Précision des mesures à ± 0.5° C| Élevé | Moyenne|
+| Acquisition de l'humidité au sol, en à 2 niveaux de profondeur | Précision des mesures à ± 1% | Élevé | Moyenne       |
+| Acquisition de l'intensité lumineuse| Précision à ± 1 Lux | Élevé | Moyenne       |
+| Acquisition du spectre de la lumière| Différentiation RGB | Élevé | Faible |
+| Acquisition du taux de CO₂|Précision à ± 40 ppm (5%)  | Élevé | Faible |
+| Photographie des plantes |Image de qualité correcte, 5 Mpx | Élevé | Faible |
 | Transmission des données          | Taux de réussite, couverture, latence              | Élevé                   | Faible        |
 | Traitement et analyse             | Rapidité, exactitude, sécurité                     | Moyen                   | Élevée        |
 | Interface Dashboard               | Clarté, ergonomie, temps de réponse                | Élevé                   | Moyenne       |
