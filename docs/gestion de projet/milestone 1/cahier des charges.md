@@ -40,8 +40,6 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 
 ### 3.3 Budget
 
-# TODO
-
 - Coût matériel estimé : **220 €**
 - Développement du système : **22 000 €**
 - Budget estimé : **25 000 €**
