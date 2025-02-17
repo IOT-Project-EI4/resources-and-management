@@ -50,9 +50,9 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 
 Voici le schéma d'un module :
 
-![Schéma du projet](images/module.png)
+![Schéma du projet](../../images/module.png)
 
-![Schéma bloc des fonctionnalitées](images/bloc%20diagram.png)
+![Schéma bloc des fonctionnalitées](../../images/bloc%20diagram.png)
 
 ### 4.2 Composants  
 
