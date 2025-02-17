@@ -2,15 +2,15 @@
 
 ## Structure de découpage du projet, PBS : Product Breakdown Structure
 
-![PBS](images/pbs.png)
+![PBS](../../images/pbs.png)
 
 ## L’organigramme des tâches, WBS : Work Breakdown Structure
 
-![WBS](images/wbs.png)
+![WBS](../../images/wbs.png)
 
 ## Gestions des risques, AMDEC
 
-![AMDEC](images/amdec.png)
+![AMDEC](../../images/amdec.png)
 
 ## Gestion des tâches et du code, Gantt et Kanban (tableau de bord)
 
@@ -20,11 +20,11 @@ Tous ces éléments sont accessibles depuis le tableau de bord du projet dans le
 
 Vue Kanban : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/2](https://github.com/orgs/IOT-Project-EI4/projects/3/views/2)
 
-![Kanban](images/kanban.png)
+![Kanban](../../images/kanban.png)
 
 Vue Gantt : [https://github.com/orgs/IOT-Project-EI4/projects/3/views/1](https://github.com/orgs/IOT-Project-EI4/projects/3/views/1)
 
-![Gantt](images/gantt.png)
+![Gantt](../../images/gantt.png)
 
 ## Communication
 
@@ -34,11 +34,11 @@ Pour la communication, nous avons mis en place un groupe WhatsApp pour les écha
 
 Pour l'organisation et les revues en groupes, nous allons utiliser les horaires de cours prévu pour le projet. Nous avons aussi prévu des revues juste avant l'oral de chaque rendu pour s'assurer que tout est prêt.
 
-![Plannification des revues de groupe](images/plannification.png)
+![Plannification des revues de groupe](../../images/plannification.png)
 
 Voici une estimation de la plannification des différentes phases du projet du 29 Janvier au 8 Avril :
 
-![Plannification](images/plannification2.png)
+![Plannification](../../images/plannification2.png)
 
 ## Charte d'équipe
 
@@ -69,9 +69,9 @@ Description des fonctionnalités :
 
 <br />
 
-![Schéma bloc des fonctionnalitées](images/bloc%20diagram.png)
+![Schéma bloc des fonctionnalitées](../../images/bloc%20diagram.png)
 
-![Dessin fonctionnel du module](images/module.png)
+![Dessin fonctionnel du module](../../images/module.png)
 
 ## Cahier des charges
 
@@ -85,15 +85,15 @@ La liste du matériel que nous avons sélectionné est disponible ici : [Liste m
 
 ### Matériel
 
-![Coût Matériel](images/cout-materiel.png)
+![Coût Matériel](../../images/cout-materiel.png)
 
 ### Main-d'œuvre
 
-![Coût de la main-d'œuvre](images/cout-main-doeuvre.png)
+![Coût de la main-d'œuvre](../../images/cout-main-doeuvre.png)
 
 ### Total
 
-![Coût Total](images/cout-total.png)
+![Coût Total](../../images/cout-total.png)
 
 ## Bibliographie
 
