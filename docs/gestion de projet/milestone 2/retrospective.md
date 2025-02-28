@@ -5,10 +5,6 @@
 - Bonne qualité générale des rendus et de la présentation.
 - Répartition efficace des tâches et travail globalement fluide.
 
----
-
-## ❌ Points négatifs
-
 ### 🔗 Aspects généraux
 
 - Garder en tête la règle des 80/20 : 80% du travail se fait en 20% du temps.  
