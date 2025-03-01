@@ -9,13 +9,13 @@
 
 | **Conditions météorologiques**     | **Éclairement lumineux (lux)** |
 |------------------------------------|-------------------------------|
-| Nuit sans lune                     | 0,001 - 0,02 lx               |
+| Nuit sans lune                     | 0,01 - 0,2 lx               |
 | Nuit avec pleine lune              | 0,1 - 0,3 lx                   |
-| Aube ou crépuscule                 | 1 - 50 lx                      |
-| Ciel très couvert (jour sombre)    | 100 - 500 lx                   |
-| Ciel nuageux léger                 | 500 - 2000 lx                  |
-| Journée ensoleillée à l’ombre      | 1000 - 2000 lx                 |
-| Soleil direct (sans nuage)         | 5000 - 10 000 lx               |
+| Aube ou crépuscule                 | 10 - 500 lx                      |
+| Ciel très couvert (jour sombre)    | 1000 - 5000 lx                   |
+| Ciel nuageux léger                 | 5000 - 20 000 lx                  |
+| Journée ensoleillée à l’ombre      | 10 000 - 20 000 lx                 |
+| Soleil direct (sans nuage)         | 50 000 - 100 000 lx               |
 
 ---
 
