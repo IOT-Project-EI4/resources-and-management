@@ -17,6 +17,17 @@
 | Journée ensoleillée à l’ombre      | 10 000 - 20 000 lx                 |
 | Soleil direct (sans nuage)         | 50 000 - 100 000 lx               |
 
+
+| **Conditions météorologiques**      | **Température de couleur (K)** | **Répartition approximative RGB** |
+|--------------------------------------|--------------------------------|----------------------------------|
+| Nuit sans lune                       | 1000 - 2000 K                  | Dominance de rouge/orange, R > G > B |
+| Nuit avec pleine lune                | 4000 - 5000 K                  | Équilibré, légère dominance de bleu, R ≈ G < B |
+| Aube ou crépuscule                   | 2500 - 3500 K                  | Dominance de rouge/jaune, R > G > B |
+| Ciel très couvert (jour sombre)      | 6500 - 7500 K                  | Dominance de bleu, R < G < B |
+| Ciel nuageux léger                   | 6000 - 7000 K                  | Léger excès de bleu, R < G ≈ B |
+| Journée ensoleillée à l’ombre        | 7000 - 9000 K                  | Forte dominance de bleu, R < G < B |
+| Soleil direct (sans nuage)           | 5500 - 6000 K                  | Équilibré, R ≈ G ≈ B |
+
 ---
 
 ## Spectral Responsivity
