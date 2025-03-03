@@ -28,12 +28,8 @@ Les détails ont leur importance, mais ne doivent pas éclipser les priorités. 
   - Titre / sous-titre / contenu.  
   - Taille de police, couleurs et styles.
 
----
-
 ## 🚀 Axes d’amélioration
 
 - Anticiper davantage la création des diapositives pour éviter le rush de dernière minute.  
 Envisager une **présentation blanche** (répétition à blanc) pour ajuster le timing et le contenu.
 - Dès qu’une tâche est terminée ou qu’un avancement est fait, penser à **envoyer un message sur le groupe** pour tenir tout le monde informé.
-
-
