@@ -40,10 +40,9 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 
 ### 3.3 Budget
 
-# TODO
-
-- Coût matériel estimé : **[montant] €**
-- Développement logiciel : **[montant] €**
+- Coût matériel estimé : **220 €**
+- Développement du système : **22 000 €**
+- Budget estimé : **25 000 €**
 
 ## 4. Architecture du Système
 
@@ -51,9 +50,9 @@ Ce projet concerne uniquement une serre de 15 mètres de diamètre à Saint-Cyr 
 
 Voici le schéma d'un module :
 
-![Schéma du projet](images/module.png)
+![Schéma du projet](../../images/module.png)
 
-![Schéma bloc des fonctionnalitées](images/bloc%20diagram.png)
+![Schéma bloc des fonctionnalitées](../../images/bloc%20diagram.png)
 
 ### 4.2 Composants  
 
