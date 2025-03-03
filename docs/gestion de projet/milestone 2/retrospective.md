@@ -1,30 +1,39 @@
-# Retrospective
+# Rétrospective
 
-## Points positifs
+## ✅ Points positifs
 
-- Qualité générale des rendus et de la présentation
-- Efficaicté générale et de la répartition des tâches
+- Bonne qualité générale des rendus et de la présentation.
+- Répartition efficace des tâches et travail globalement fluide.
 
-## Points négatifs
+### 🔗 Aspects généraux
 
-### Général
+- Garder en tête la règle des 80/20 : 80% du travail se fait en 20% du temps.  
+Les détails ont leur importance, mais ne doivent pas éclipser les priorités. Il n’est pas nécessaire d’atteindre 100% de perfection.
 
-- Garder à l'esprit que 80% du travail se fait en 20% du temps, les détails sont importants mais ne doivent pas prendre le pas sur l'essentiel pas besoin d'atteindre les 100% de qualité
+### 📄 Cahier des charges
 
-### Cahier des charges
+- Absence de calcul de la consommation énergétique vs la production du panneau solaire.
+- Manque de clarté concernant le module de gestion d’énergie :  
+  - Choix du panneau solaire.  
+  - Connexion du panneau au système.  
+  - Régulation de la tension.
+- Bien vérifier les `#TODO` présents dans les fichiers pour ne rien oublier.
 
-- Pas de calcul de la comsommation energetique vs production du pannel solaire
-- Module de gestion d'énergie, choix du panneau solaire, connexion du panneau au système, régulation de tension
-- Bien faire attention au # TODO dans chaque fichiers
+### 🎥 Diapositives de présentation
 
-### Diapositives de présentation
+- Ajouter un numéro de page en bas de chaque diapositive.
+- Veiller à la concision du texte : éviter les blocs trop longs.
+- Respecter une durée maximale de **30 secondes par diapositive**, quitte à découper le contenu sur plusieurs slides.
+- Assurer la cohérence visuelle :  
+  - Titre / sous-titre / contenu.  
+  - Taille de police, couleurs et styles.
 
-- Numéro en bas de page
-- Texte parfois trop long
-- Attention pas plus de 30 secondes par diapositive, quel que soit le contenu, quitte à en faire plusieurs slides
-- Attention à la cohérence titre / sous titre / contenu (taille de police, couleur, font size, etc.)
+---
 
-## Axes d'amélioration
+## 🚀 Axes d’amélioration
 
-- S'organiser plus en amont pour réaliser les diapositives de présentation. Potentillement s'organiser pour faire une présentation blanche
-- A chaque petite réalisation / travail, envoyé un message sur le groupe pour informer les autres membres
+- Anticiper davantage la création des diapositives pour éviter le rush de dernière minute.  
+Envisager une **présentation blanche** (répétition à blanc) pour ajuster le timing et le contenu.
+- Dès qu’une tâche est terminée ou qu’un avancement est fait, penser à **envoyer un message sur le groupe** pour tenir tout le monde informé.
+
+
