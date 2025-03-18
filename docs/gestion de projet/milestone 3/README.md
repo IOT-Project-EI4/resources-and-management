@@ -17,24 +17,23 @@ Soutenance final du projet: le 8 avril
 - [ ] Trouver et corriger tout les *// TODO*
 - [ ] Implementer le mode sleep
 - [ ] Produire une v1.0 du embeded software pour avoir un prototype viable
-- [ ] Mise en pace du mode sleep pour l'antenne Lora
-- [ ] Description d'un protocol d'envoie de données fléxible // **En discuter avec M. Douze**
+- [X] Description du protocol d'envoie de données // **En discuter avec M. Douze**
 - [ ] Modification du code pour avoir un système modulaire, flexible et résiliant // En discuter avec M. Douze
 - [ ] création de task descriptor pour un code modulable et avec un système plug and play pour les capteurs ??? A discuter ensemble
 
 ### Modélisation / impression 3D
 
-- [ ] modélisation des différentes pièce 3D
+- [X] modélisation des différentes pièce 3D
 - [ ] impression 3D des pièces
 - [ ] montage d'un prototype v1.0
 - [ ] test de solidité mécanique
 - [ ] test d'étanchéité
-- [ ] attention au respect de règles et contraintes de modilisation pour l'impression 3D
+- [X] attention au respect de règles et contraintes de modilisation pour l'impression 3D
 
 ### PCB(s)
 
-- [ ] faire le schéma d'un PCB
-- [ ] impression du PCB
+- [X] faire le schéma d'un PCB
+- [X] impression du PCB
 - [ ] Soudage des composants et mise en place de tests pour verifier le bon fonctionnement
 
 ### Site / app web
