@@ -54,3 +54,6 @@ Soutenance final du projet: le 8 avril
 - [ ] Ajouter une communication websocket pour mettre a jour les données sans recharger la page
 - [ ] Utiliser les sockets (si disponible) pour charger les données plutot que des requettes HTTP/S
 - [ ] Mode PWA ?
+
+### Flow diagram
+- [ ] Correct typo : disable all external **Compoenents**
