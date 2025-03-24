@@ -2,12 +2,12 @@
 
 ## ✅ Points positifs
 
-- faire une présentation blanche avant a permis une bonne gestion du temps pour la revue
+- Faire une présentation blanche avant la revue a permis une bonne gestion du temps lors de la vraie présentation
 
-## [emoji] Points négatifs // TODO
+## ❌ Points négatifs // TODO
 
-- Le emps nécessaire pour finir le travail avant la présentation a été sur estimé
+- Le temps nécessaire pour finir le travail avant la présentation a été sous-estimé
 
 ## Remarques général du client
 
-- Optimisation de la taille et du nombre de trames des message LoraWan
+- Nécéssité d'ptimiser la taille et du nombre de trames des message LoraWan

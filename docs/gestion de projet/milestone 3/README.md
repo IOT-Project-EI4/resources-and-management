@@ -6,9 +6,8 @@
 
 ## Date de la troisième revue
 
-La 25 mars 2025 et installation des produits fini les 31 mars.
-
-Soutenance final du projet: le 8 avril
+Dernière revue le **25 mars 2025** et installation des produits fini le **31 mars**.
+Soutenance final du projet: le **8 avril**
 
 ## Tâches pour le sprint 3
 
@@ -34,7 +33,7 @@ Soutenance final du projet: le 8 avril
 
 - [X] faire le schéma d'un PCB
 - [X] impression du PCB
-- [ ] Soudage des composants et mise en place de tests pour verifier le bon fonctionnement
+- [X] Soudage des composants et mise en place de tests pour verifier le bon fonctionnement
 
 ### Site / app web
 
@@ -54,6 +53,29 @@ Soutenance final du projet: le 8 avril
 - [ ] Ajouter une communication websocket pour mettre a jour les données sans recharger la page
 - [ ] Utiliser les sockets (si disponible) pour charger les données plutot que des requettes HTTP/S
 - [ ] Mode PWA ?
+- [ ] Ajout du lien vers la revue de projet 3 dans le menu
+- [ ] remplacer la card "Photos galery"
 
-### Flow diagram
-- [ ] Correct typo : disable all external **Compoenents**
+## PCB
+
+Conception, impression et soudage d'une PCB pour assembler tout les composants electroniques ensemble.
+
+### Contrainte
+
+Liste des contraintes prise en compte lors de la conception du PCB:
+
+- 2 sources d'alimentations: une principale venant de la batterie et une secondaire, controlable ON / OFF, pour alimenter les capteurs
+- Format de taille le plus petit possible et plutôt carré
+- 3 trous de fixation
+
+### Schématic
+
+![Schéma du électrique du PCB](../../images/PCB%20schematics.png)
+
+### Routage
+
+![Routage du PCB](../../images/PCB%20printed.png)
+
+## Embeded software
+
+Le logiciel embarqué est un des aspect les points les plus importants
